@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center" style="marginBottom:'20px'">
+<div align="center" style="margin-top:200px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhannjayyy&count_private=true&include_all_commits=true&&theme=dracula"/>
 </div>
 
